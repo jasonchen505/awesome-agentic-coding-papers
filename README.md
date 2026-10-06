@@ -19,6 +19,8 @@ Please open an issue or submit a pull request if you'd like to add papers or res
 - **AI Agentic Programming: A Survey of Techniques, Challenges, and Opportunities**, arxiv 2025, [[Paper]](https://arxiv.org/abs/2508.11126)
 - **A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System**, arxiv 2025, [[Paper]](https://arxiv.org/abs/2510.09721)
 - **Toward Agentic Software Engineering Beyond Code: Framing Vision, Values, and Vocabulary**, arxiv 2025, [[Paper]](https://arxiv.org/abs/2510.19692)
+- **Self-Evolving Coding Agents**, arxiv 2026, [[Paper]](https://arxiv.org/abs/2608.03392)
+- **Agentic Software Issue Resolution with Large Language Models: A Survey**, arxiv 2025 (v2 updated 2026-08), [[Paper]](https://arxiv.org/abs/2512.22256)
 
 #### Agentic RL
 - **The Landscape of Agentic Reinforcement Learning for LLMs: A Survey**, arxiv 2025, [[Paper]](https://arxiv.org/abs/2509.02547)
@@ -33,6 +35,15 @@ Please open an issue or submit a pull request if you'd like to add papers or res
 - SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains? ICLR 2025，[[paper]](https://arxiv.org/abs/2410.03859)
 - Multi-SWE-bench: A Multilingual Benchmarkfor Issue Resolving,arxiv 2025,[[paper]](https://arxiv.org/abs/2504.02605)
 - SWE-Compass: Towards Unified Evaluation of Agentic Coding Abilities for Large Language Models，arxiv 2025，[[paper]](https://arxiv.org/pdf/2511.05459)
+- **DeepSWE: Measuring Frontier Coding Agents on Original, Long-Horizon Engineering Tasks**, arxiv 2026, [[Paper]](https://arxiv.org/abs/2607.07946)
+- **SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring**, COLM 2026, [[Paper]](https://arxiv.org/abs/2608.09802)
+- **LoLBench: Evaluating Coding Agents with Long-Horizon Proposals on Large Software Systems**, arxiv 2026, [[Paper]](https://arxiv.org/abs/2609.37143)
+- **SWE-Together: Evaluating Coding Agents in Interactive User Sessions**, arxiv 2026, [[Paper]](https://arxiv.org/abs/2606.29957) [[Project]](https://togetherbench.com)
+- **Active-SWE: Benchmarking Coding Agents for Proactive Bug Fixing without Issue Reports**, arxiv 2026, [[Paper]](https://arxiv.org/abs/2608.04682)
+- **SWE-RPG: A Unified Issue Resolution Benchmark for Requirement Clarification, Planning, and Code Generation for Coding Agents**, arxiv 2026, [[Paper]](https://arxiv.org/abs/2608.09072)
+- **SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?**, arxiv 2026, [[Paper]](https://arxiv.org/abs/2608.19799) [[Project]](https://swescience.github.io/)
+- **StaminaBench: Stress-Testing Coding Agents over 100 Interaction Turns**, arxiv 2026, [[Paper]](https://arxiv.org/abs/2606.19613)
+- **Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading**, arxiv 2026, [[Paper]](https://arxiv.org/abs/2607.08964)
 
 ### Agentic Coding LLMs
 - **Qwen3-Coder: Agentic Coding in the World**, 2025.08, [[Blog]](https://qwen.ai/blog?id=d927d7d2e59d059045ce758ded34f98c0186d2d7&from=research.research-list)
@@ -52,16 +63,31 @@ Please open an issue or submit a pull request if you'd like to add papers or res
 - **Qwen3.5-Omni Technical Report**, 2026.04, [[Paper]](https://arxiv.org/abs/2604.15804)
 - **Kimi K2.6: Advancing Open-Source Coding**, 2026.04, [[Blog]](https://www.kimi.com/blog/kimi-k2-6) [[HF]](https://huggingface.co/moonshotai/Kimi-K2.6)
 - **DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence**, 2026.04, [[HF]](https://huggingface.co/collections/deepseek-ai/deepseek-v4)
+- **Claude Opus 4.8**, 2026.05, [[Blog]](https://www.anthropic.com/news/claude-opus-4-8)
+- **MiniMax M3**, 2026.06, [[Paper]](https://arxiv.org/abs/2606.13392) [[HF]](https://huggingface.co/MiniMaxAI/MiniMax-M3)
+- **GLM-5.2**, 2026.06, [[Blog]](https://z.ai/blog/glm-5.2)
+- **GPT-5.6**, 2026.07, [[Blog]](https://openai.com/index/gpt-5-6/)
+- **Kimi K3**, 2026.07, [[Blog]](https://www.kimi.com/blog/kimi-k3) [[HF]](https://huggingface.co/moonshotai/Kimi-K3)
+- **Laguna S 2.1**, 2026.07, [[Blog]](https://www.globenewswire.com/news-release/2026/07/21/3330818/0/en/Poolside-releases-Laguna-S-2-1-the-West-s-most-capable-open-weight-model.html)
+- **GLM-5.3**, 2026.08, [[Blog]](https://z.ai/blog/glm-5.3)
+- **Qwen3.8-Flash-Next**, 2026.08, [[HF]](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)
+- **SWE-2**, 2026.09, [[Blog]](https://cognition.com/blog/swe-2)
+- **Gemini 4 Argon**, 2026.09, [[Blog]](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
+- **Mistral Large 4**, 2026.10, [[Blog]](https://mistral.ai/news/mistral-large-4/)
 
 
 ### Agentic Code RL
 - **Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem**, arXiv 2025, [[Paper]](https://arxiv.org/abs/2512.24873)
 - **Composer 2 Technical Report**, arXiv 2026, [[Paper]](https://arxiv.org/abs/2603.24477)
+- **Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning**, arXiv 2026, [[Paper]](https://arxiv.org/abs/2607.07508)
 
 ### Terminal Task
 
 #### Task Synthesis
 - **On Data Engineering for Scaling LLM Terminal Capabilities**, arXiv 2026, [[Paper]](https://arxiv.org/abs/2602.21193)
+- **Recursive Synthesis for Long-Horizon Terminal Tasks**, arXiv 2026, [[Paper]](https://arxiv.org/abs/2608.05466)
+- **NexForge: Scaling Agent Capabilities through Requirement-Driven Task Synthesis for LLMs**, arXiv 2026, [[Paper]](https://arxiv.org/abs/2607.14186)
+- **Environment Evolution for Terminal Agents**, arXiv 2026, [[Paper]](https://arxiv.org/abs/2609.04128)
 
 
 
@@ -73,18 +99,22 @@ Please open an issue or submit a pull request if you'd like to add papers or res
 - **Training Software Engineering Agents and Verifiers with SWE-Gym**, ICML 2025, [[Paper]](https://arxiv.org/abs/2412.21139)
 - **SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents**, arXiv 2025, [[Paper]](https://arxiv.org/abs/2505.20411)
 - **R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents**, COLM 2025, [[Paper]](https://arxiv.org/abs/2504.07164)
+- **Open-SWE-Traces: Advancing Dual-Mode Multilingual Distillation for Software Engineering Agents**, arXiv 2026, [[Paper]](https://arxiv.org/abs/2606.16038)
 
 #### Training Environments Generation Without Open-Source Docker
 - **SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories**, arXiv 2025, [[Paper]](https://arxiv.org/pdf/2509.08724)
+- **MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis**, arXiv 2026, [[Paper]](https://arxiv.org/abs/2607.27146)
   
 ### Code Understanding
 - **SWE-QA: Can Language Models Answer Repository-level Code Questions?**， arxiv 2025，[[paper]](https://arxiv.org/pdf/2509.14635)
+- **ExplainBench: Evaluating Code Explanations from Agents**, arxiv 2026, [[Paper]](https://arxiv.org/abs/2607.26451)
 
 
 ### Code Localization
 - **LocAgent: Graph-Guided LLM Agents for Code Localization** ,ACL 2025, [[paper]](https://arxiv.org/abs/2503.09089)
 - **Improving Code Localization with Repository Memory**, arxiv 2025, [[paper]](https://arxiv.org/abs/2510.01003)
 - **SweRank: Software Issue Localization with Code Ranking**,arxiv 2025,[[paper]](https://arxiv.org/abs/2505.07849)
+- **Semantic Navigation for Issue Localization in Code Repository**, arxiv 2026, [[Paper]](https://arxiv.org/abs/2609.31176)
 
 ### Code Edit
 - **EDIT-Bench: Evaluating LLM Abilities to Perform Real-World Instructed Code Edits**，arxiv 2025, [[paper]](https://arxiv.org/abs/2511.04486) 
@@ -96,6 +126,7 @@ Please open an issue or submit a pull request if you'd like to add papers or res
 - **Agentless: Demystifying LLM-based Software Engineering Agents**, *Proceedings of the ACM on Software Engineering*, 2024, [[Paper]](https://arxiv.org/abs/2407.01489)
 - **OpenHands: An Open Platform for AI Software Developers as Generalist Agents**, ICLR 2025, [[Paper]](https://arxiv.org/abs/2407.16741)
 - **Mini-swe-agent**, 2025, [[Project]](https://github.com/SWE-agent/mini-swe-agent)
+- **Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks**, arxiv 2026, [[Paper]](https://arxiv.org/abs/2606.12344)
 
 
 ### Intelligent Code IDEs
@@ -114,5 +145,5 @@ Please open an issue or submit a pull request if you'd like to add papers or res
 
 ---
 
-*Last updated: May 2026*
+*Last updated: October 2026*
 
