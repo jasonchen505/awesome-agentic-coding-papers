@@ -44,6 +44,9 @@ Please open an issue or submit a pull request if you'd like to add papers or res
 - **SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?**, arxiv 2026, [[Paper]](https://arxiv.org/abs/2608.19799) [[Project]](https://swescience.github.io/)
 - **StaminaBench: Stress-Testing Coding Agents over 100 Interaction Turns**, arxiv 2026, [[Paper]](https://arxiv.org/abs/2606.19613)
 - **Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading**, arxiv 2026, [[Paper]](https://arxiv.org/abs/2607.08964)
+- **SWE-Bench Pro V2: A Cleaner, Harder-to-Game Coding Benchmark**, arxiv 2026, [[Paper]](https://arxiv.org/abs/2610.24206)
+- **SWEPatchTest: Evaluating Software Tests Beyond Reproduction**, arxiv 2026, [[Paper]](https://arxiv.org/abs/2610.18004)
+- **Coding-Agent Benchmarks Should Match Their Users' Task Flows**, arxiv 2026, [[Paper]](https://arxiv.org/abs/2610.09633)
 
 ### Agentic Coding LLMs
 - **Qwen3-Coder: Agentic Coding in the World**, 2025.08, [[Blog]](https://qwen.ai/blog?id=d927d7d2e59d059045ce758ded34f98c0186d2d7&from=research.research-list)
@@ -74,12 +77,17 @@ Please open an issue or submit a pull request if you'd like to add papers or res
 - **SWE-2**, 2026.09, [[Blog]](https://cognition.com/blog/swe-2)
 - **Gemini 4 Argon**, 2026.09, [[Blog]](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
 - **Mistral Large 4**, 2026.10, [[Blog]](https://mistral.ai/news/mistral-large-4/)
+- **Muse Wonder**, 2026.10, [[Blog]](https://research.meta.ai/blog/muse-wonder)
+- **Kimi K3.1 Pro**, 2026.10, [[Blog]](https://kimi.ai/blog/kimi-k3-1-pro)
 
 
 ### Agentic Code RL
 - **Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem**, arXiv 2025, [[Paper]](https://arxiv.org/abs/2512.24873)
 - **Composer 2 Technical Report**, arXiv 2026, [[Paper]](https://arxiv.org/abs/2603.24477)
 - **Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning**, arXiv 2026, [[Paper]](https://arxiv.org/abs/2607.07508)
+- **SPROUT: Scaling Agentic Reinforcement Learning for Long-Horizon Software Engineering**, arxiv 2026, [[Paper]](https://arxiv.org/abs/2610.14405)
+- **Priming Base Models for Agentic Post-Training: An Open Midtraining Recipe**, arxiv 2026, [[Paper]](https://arxiv.org/abs/2610.22019)
+- **RIPPLE: Recovery Internalization through Process-Level Policy Learning and Effect-Aware Credit for Long-Horizon Agentic Coding**, arxiv 2026, [[Paper]](https://arxiv.org/abs/2610.31276)
 
 ### Terminal Task
 
